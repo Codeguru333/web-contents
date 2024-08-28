@@ -1,0 +1,38 @@
+web developer or full stack developer
+internet:
+domain
+hosting
+servers
+protocols
+ports
+--------------------
+front end:
+html
+css 
+css framework(bootstrap,less,sass,,,,,)
+javascript(angularjs,reactjs,vuejs......)  typescript
+jquery
+ajax
+xml
+json
+....
+---------------------
+tools:git (github.com,git bash)
+vscode
+.......
+------------------
+backend:
+1.language:
+php ,laravel
+java + jsp,servlets,jdbc + spring 
+python + django or flask or cherry py
+go
+ruby on rails
+perl
+.net
+.........
+---------------------------
+2.Database :
+sql: oracle,mysql,mssql server, db2,......    rdbms
+nosql:mongodb,GraphQl
+---------------------------------------------------------------
